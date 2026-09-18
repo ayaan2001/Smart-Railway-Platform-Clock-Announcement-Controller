@@ -38,7 +38,7 @@ The controller maintains the current time, processes scheduled train information
 
 **Original project circuit diagram — included directly inside this README.**
 
-![Smart Railway Plotform Clock Announcement Controller](Images/CIRCUIT DIAGRAM.png)
+![Smart Railway Platform Clock & Announcement Controller](Images/CIRCUIT DIAGRAM.png)
 
 > **Note:** This is the original circuit diagram supplied for the project. No circuit editing has been performed.
 
