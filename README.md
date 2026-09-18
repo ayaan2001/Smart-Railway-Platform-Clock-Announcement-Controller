@@ -490,13 +490,6 @@ The project combines **real-time clock management, train scheduling, keypad inpu
 
 ---
 
-## 📄 License
-
-This project is intended for **educational and learning purposes**.
-
-Feel free to study, modify, and extend the project for your own embedded-systems experiments.
-
----
 
 <p align="center">
   🚆 <strong>Smart Railway Platform Clock & Announcement Controller</strong><br>
